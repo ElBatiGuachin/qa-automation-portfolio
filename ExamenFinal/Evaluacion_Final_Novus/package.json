@@ -1,0 +1,17 @@
+{
+  "name": "evaluacion_final_novus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^3.9.3"
+  }
+}
